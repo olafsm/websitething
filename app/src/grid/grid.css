@@ -1,0 +1,11 @@
+.grid-row:after {
+    content: "";
+    display: table;
+    user-select: none;
+  }
+
+  .status {
+    margin-bottom: 10px;
+  }
+
+  

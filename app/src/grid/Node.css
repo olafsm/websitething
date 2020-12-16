@@ -1,0 +1,25 @@
+.node {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 100%;
+    width: 100%;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    user-select: none;
+  }
+  .start {
+    background: #00FF00;
+  }
+  .goal {
+    background-image: url("./target.png");
+    background-size: 25px 25px;
+  }
+  .wall {
+      background: rgb(48, 6, 95);
+  }
